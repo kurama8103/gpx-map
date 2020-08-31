@@ -1,0 +1,3 @@
+gunicorn 
+Flask
+-e git+https://github.com/kurama8103/gpxdf.git#egg=gpxdf
